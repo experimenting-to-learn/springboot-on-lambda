@@ -1,0 +1,6 @@
+This Quick Start deploys {partner-product-short-name} on the AWS Cloud. If you are unfamiliar with AWS Quick Starts, refer to the https://fwd.aws/rA69w?[AWS Quick Start General Information Guide^].
+
+This Quick Start is for users who want to deploy {partner-product-short-name} as a secure, flexible, and highly available identity management system. It uses the AWS Cloud Development Kit (AWS CDK) to automate the deployment using recommended settings for security control. Settings include minimally required AWS Identity and Access Management (IAM) policies and AWS Secrets Manager protection and management for all credentials.
+// This deployment guide covers the steps necessary to deploy this Quick Start. For more advanced information about the product, troubleshooting, or additional functionality, refer to the https://{quickstart-github-org}.github.io/{quickstart-project-name}/operational/index.html[Operational Guide^].
+
+// For information about using this Quick Start for migrations, refer to the https://{quickstart-github-org}.github.io/{quickstart-project-name}/migration/index.html[Migration Guide^].
