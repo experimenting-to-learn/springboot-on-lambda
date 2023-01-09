@@ -1,0 +1,3 @@
+:xrefstyle: short
+
+Deploying this Quick Start with default parameters builds the following {partner-product-short-name} environment in the AWS Cloud.
